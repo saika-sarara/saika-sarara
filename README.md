@@ -48,50 +48,19 @@ Hello, I’m **Saika**! Welcome to my corner of GitHub.
   <img src="https://img.shields.io/badge/Databases-3D385C?style=for-the-badge&logo=postgresql&logoColor=EDE8F7" alt="Databases" />
 </p>
 
-## 🌌 Featured projects
+## 🌌 Featured project
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%">
-      <h3>📦 E-commerce Order Fulfillment Automation Backend</h3>
-      <p>A Java CLI project simulating order processing, inventory management, payments, shipping, and reporting.</p>
-      <a href="https://github.com/saika-sarara/E-commerce-Order-Fulfillment-Automation-Backend">View project →</a>
-    </td>
-    <td width="50%">
+    <td align="center">
       <h3>🗄️ Learnova — DBMS-2 Project</h3>
-      <p>A team-built learning platform using Spring Boot and PostgreSQL, with role-based access, courses, quizzes, and progress tracking.</p>
-      <a href="https://github.com/saika-sarara/DBMS-2-Project">View project →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🍽️ Improved Cafeteria System</h3>
-      <p>A service-based ordering project. My contributions include JWT validation, Redis-backed stock checks, concurrency-safe inventory handling, and real-time order updates.</p>
-      <a href="https://github.com/saika-sarara/Improved-Cafeteria-System">View project →</a>
-    </td>
-    <td width="50%">
-      <h3>💡 Object-Oriented Programming Assignments</h3>
-      <p>A Java coursework repository containing five projects for object-oriented programming practice.</p>
-      <a href="https://github.com/saika-sarara/OOC_assignment-2">View project →</a>
+      <p>A team-built learning platform using Spring Boot and PostgreSQL, with role-based access, guided courses, quizzes, and progress tracking.</p>
+      <a href="https://github.com/saika-sarara/DBMS-2-Project">View Learnova →</a>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/saika-sarara?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-62558A?style=for-the-badge&logo=github&logoColor=EDE8F7" alt="Explore all repositories" />
-  </a>
-</p>
-
 ## 📊 My GitHub journey
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saika-sarara&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B39DDB&icon_color=F48FB1&text_color=EDE8F7&ring_color=9A8CD1" alt="GitHub statistics in a moonlit theme" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saika-sarara&layout=compact&hide_border=true&bg_color=0D1117&title_color=B39DDB&text_color=EDE8F7" alt="Most used programming languages in a moonlit theme" />
-
-</div>
 
 <div align="center">
 
