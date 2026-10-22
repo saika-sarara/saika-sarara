@@ -30,12 +30,12 @@ Hello, I’m **Saika**! Welcome to my corner of GitHub.
 ## ✨ My tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,powershell,spring,postgres,redis,docker,git&theme=dark" alt="Java, JavaScript, HTML, CSS, PowerShell, Spring, PostgreSQL, Flutter, Docker, and Git" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,powershell,spring,postgres,flutter,docker,git&theme=dark" alt="Java, JavaScript, HTML, CSS, PowerShell, Spring, PostgreSQL, Flutter, Docker, and Git" />
 </p>
 
 <p align="center">
   <strong>Languages:</strong> Java · JavaScript · HTML · CSS · PL/pgSQL · PowerShell<br/>
-  <strong>Frameworks &amp; data:</strong> Spring Boot · Spring Security · PostgreSQL . FLutter <br/>
+  <strong>Frameworks &amp; data:</strong> Spring Boot · Spring Security · PostgreSQL . Flutter <br/>
   <strong>Tools &amp; APIs:</strong> Docker · Flyway · JWT · WebSockets · Swagger / OpenAPI
 </p>
 
