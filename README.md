@@ -81,8 +81,6 @@ Hello, I’m **Saika**! Welcome to my corner of GitHub.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saika-sarara&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F48FB1&icon_color=E75480&text_color=E6EDF3&ring_color=E75480" alt="GitHub statistics" />
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saika-sarara&layout=compact&hide_border=true&bg_color=0D1117&title_color=F48FB1&text_color=E6EDF3" alt="Most used programming languages" />
 
 </div>
