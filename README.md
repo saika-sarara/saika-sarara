@@ -9,8 +9,6 @@
 *“Softly ambitious, endlessly curious, and always becoming.”* 🌙
 
 [![GitHub followers](https://img.shields.io/github/followers/saika-sarara?style=flat&logo=github&label=Followers&color=d63384)](https://github.com/saika-sarara?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/saika-sarara?style=flat&logo=github&label=Total%20Stars&color=ad1457)](https://github.com/saika-sarara?tab=repositories)
-![Profile views](https://komarev.com/ghpvc/?username=saika-sarara&style=flat&color=e75480&label=Profile+Views)
 
 </div>
 
@@ -54,9 +52,9 @@ Here are a few projects from my coding journey. Replace these examples with your
       <a href="https://github.com/saika-sarara/YOUR_WEB_PROJECT">View project →</a>
     </td>
     <td width="50%">
-      <h3>🗄️ Database Management System</h3>
+      <h3>🗄️ DBMS-2 Project</h3>
       <p>A project focused on database design, SQL queries, and application functionality.</p>
-      <a href="https://github.com/saika-sarara/YOUR_DATABASE_PROJECT">View project →</a>
+      <a href="[https://github.com/saika-sarara/YOUR_DATABASE_PROJECT](https://github.com/saika-sarara/DBMS-2-Project)">View project →</a>
     </td>
   </tr>
   <tr>
