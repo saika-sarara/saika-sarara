@@ -57,6 +57,11 @@ Hello, I’m **Saika**! Welcome to my corner of GitHub.
       <p>A team-built learning platform using Spring Boot and PostgreSQL, with role-based access, guided courses, quizzes, and progress tracking.</p>
       <a href="https://github.com/saika-sarara/DBMS-2-Project">View Learnova →</a>
     </td>
+     <td width="50%" valign="top">
+      <h3>🌙 ComicCart</h3>
+      <p>A team-built comic vending machine simulated in Proteus. Logic circuits handle comic selection, stock tracking, total calculation, and genre recommendations.</p>
+      <a href="https://github.com/saika-sarara/ComicCart">View ComicCart →</a>
+    </td>
   </tr>
 </table>
 
