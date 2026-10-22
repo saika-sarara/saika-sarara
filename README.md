@@ -54,7 +54,7 @@ Here are a few projects from my coding journey. Replace these examples with your
     <td width="50%">
       <h3>🗄️ DBMS-2 Project</h3>
       <p>A project focused on database design, SQL queries, and application functionality.</p>
-      <a href="[https://github.com/saika-sarara/YOUR_DATABASE_PROJECT](https://github.com/saika-sarara/DBMS-2-Project)">View project →</a>
+      <a href="https://github.com/saika-sarara/DBMS-2-Project">View project →</a>
     </td>
   </tr>
   <tr>
