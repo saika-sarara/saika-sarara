@@ -1,8 +1,10 @@
-## Hi there 👋 <div align="center">
+<h1 align="center">Hi there, I’m Saika Sarara 👋</h1>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0712,35:581331,70:b51f65,100:f4a6c1&height=210&section=header&text=Saika%20Sarara&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=weaving%20code%20and%20dreams%20%E2%9C%A8&descSize=17&descAlignY=60" width="100%" alt="Pink and burgundy animated profile banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=21&duration=3000&pause=900&color=F48FB1&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Progress+%F0%9F%8C%B7;Turning+ideas+into+code+%E2%9C%A8;Learning%2C+building%2C+and+growing+%F0%9F%8C%B1;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=21&duration=3000&pause=900&color=F48FB1&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%F0%9F%8C%B7;Turning+ideas+into+code+%E2%9C%A8;Learning%2C+building%2C+and+growing+%F0%9F%8C%B1;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96" alt="Animated introduction" />
 
 <br/>
 
@@ -16,57 +18,55 @@
 
 ## 🌸 A little about me
 
-Hello, I'm **Saika**! Welcome to my little corner of GitHub.
+Hello, I’m **Saika**! Welcome to my corner of GitHub.
 
-- 🎓 Computer Science student pursuing my software engineering journey
-- 💻 Building projects and strengthening my problem-solving skills
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🌱 Learning something new and improving a little every day
-- ✨ Believer in consistency, creativity, and writing better code
+- 🎓 Software Engineering student at the Islamic University of Technology (IUT)
+- 💻 Building projects with Java, Python, and JavaScript
+- 🤖 Exploring artificial intelligence and machine learning
+- 🌱 Learning through coursework, collaboration, and hands-on projects
+- ✨ I value consistency, creativity, and writing better code
 - ☕ Best accompanied by coffee, cozy music, and big dreams
 
 ## 🪄 My tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,postgres,git,github,vscode&theme=dark" alt="C++, Java, Python, HTML, CSS, JavaScript, PostgreSQL, Git, GitHub, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,spring,postgres,redis,docker,git,github,vscode&theme=dark" alt="Java, Python, JavaScript, Spring Boot, PostgreSQL, Redis, Docker, Git, GitHub, and Visual Studio Code" />
 </p>
 
-## 🌷 What I'm exploring
+## 🌷 What I’m exploring
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software_Engineering-8E245B?style=for-the-badge&logo=codefactor&logoColor=white" alt="Software Engineering" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-BB377D?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Machine_Learning-D95F91?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Backend_Development-8E245B?style=for-the-badge&logo=spring&logoColor=white" alt="Backend development" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-BB377D?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Artificial intelligence" />
+  <img src="https://img.shields.io/badge/Machine_Learning-D95F91?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine learning" />
   <img src="https://img.shields.io/badge/Databases-6B3158?style=for-the-badge&logo=postgresql&logoColor=white" alt="Databases" />
 </p>
 
 ## 💗 Featured projects
 
-Here are a few projects from my coding journey. Replace these examples with your actual repositories.
-
 <table>
   <tr>
     <td width="50%">
-      <h3>🌐 Full-Stack Web Application</h3>
-      <p>A web project bringing frontend, backend, and database concepts together.</p>
-      <a href="https://github.com/saika-sarara/YOUR_WEB_PROJECT">View project →</a>
+      <h3>📦 E-commerce Order Fulfillment Automation Backend</h3>
+      <p>A Java CLI project simulating order processing, inventory management, payments, shipping, and reporting.</p>
+      <a href="https://github.com/saika-sarara/E-commerce-Order-Fulfillment-Automation-Backend">View project →</a>
     </td>
     <td width="50%">
-      <h3>🗄️ DBMS-2 Project</h3>
-      <p>A project focused on database design, SQL queries, and application functionality.</p>
+      <h3>🗄️ Learnova — DBMS-2 Project</h3>
+      <p>A team-built learning platform using Spring Boot and PostgreSQL, with role-based access, courses, quizzes, and progress tracking.</p>
       <a href="https://github.com/saika-sarara/DBMS-2-Project">View project →</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🤖 AI / ML Learning Project</h3>
-      <p>Experiments and projects as I explore machine learning and intelligent systems.</p>
-      <a href="https://github.com/saika-sarara/YOUR_AI_PROJECT">View project →</a>
+      <h3>🍽️ Improved Cafeteria System</h3>
+      <p>A service-based ordering project. My contributions include JWT validation, Redis-backed stock checks, concurrency-safe inventory handling, and real-time order updates.</p>
+      <a href="https://github.com/saika-sarara/Improved-Cafeteria-System">View project →</a>
     </td>
     <td width="50%">
-      <h3>💡 Problem-Solving Journey</h3>
-      <p>Data structures, algorithms, and programming practice.</p>
-      <a href="https://github.com/saika-sarara/YOUR_CODING_PROJECT">View project →</a>
+      <h3>💡 Object-Oriented Programming Assignments</h3>
+      <p>A Java coursework repository containing five projects for object-oriented programming practice.</p>
+      <a href="https://github.com/saika-sarara/OOC_assignment-2">View project →</a>
     </td>
   </tr>
 </table>
@@ -105,7 +105,7 @@ Here are a few projects from my coding journey. Replace these examples with your
 
 <div align="center">
 
-*“You don't have to have it all figured out. Just keep showing up for your dreams.”* 🌷
+*“You don’t have to have it all figured out. Just keep showing up for your dreams.”* 🌷
 
 **Building my future, one commit at a time.** 💻💗
 
