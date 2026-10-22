@@ -10,7 +10,7 @@
 
 *“Softly ambitious, endlessly curious, and always becoming.”* ✨
 
-[![GitHub followers](https://img.shields.io/github/followers/saika-sarara?style=flat&logo=github&label=Followers&color=62558A&logoColor=EDE8F7)](https://github.com/saika-sarara?tab=followers)
+
 
 </div>
 
