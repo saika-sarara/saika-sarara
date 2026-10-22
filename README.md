@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I’m Saika Sarara 👋</h1>
+<h1 align="center">Hi, I'm Saika Sarara 🌸</h1>
+<p align="center"><em>Growing one commit at a time through code, curiosity, and creativity.</em></p>
 
 <div align="center">
 
