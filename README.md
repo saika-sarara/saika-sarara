@@ -21,11 +21,10 @@
 Hello, I’m **Saika**! Welcome to my corner of GitHub.
 
 - 🎓 Software Engineering student at the Islamic University of Technology (IUT)
-- 💻 Building projects with Java, Python, and JavaScript
+- 💻 Building projects with Java and JavaScript
 - 🤖 Exploring artificial intelligence and machine learning
 - 🌱 Learning through coursework, collaboration, and hands-on projects
 - ✨ I value consistency, creativity, and writing better code
-- ☕ Best accompanied by coffee, cozy music, and a starry sky
 
 ## ✨ My tech stack
 
